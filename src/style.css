@@ -1,1 +1,14 @@
 /* styles go here */
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.last-lable {
+  margin-bottom: 0;
+}
+
+.fieldset-element {
+  margin-bottom: 20px;
+}
